@@ -1,0 +1,6 @@
+1. В папке my_addons-master не трогая README.md и этот файл перетащить всё из этой папки в папку addons
+2. Удачной игры со мной
+Чтобы попасть в папку addons надо зайти- Для системы X64- C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons
+                                                     X86- C:\Program Files\Steam\steamapps\common\GarrysMod\garrysmod\addons
+
+Вы всегда можете скачать мою сборку аддонов по этой ссылке: https://github.com/danpro01/my_addons
